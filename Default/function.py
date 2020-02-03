@@ -6,7 +6,8 @@ def factorial(a):
         
     return fact
 
-#f=input('enter factorial: ')
-#print(factorial(int(f))) 
+f=input('enter factorial: ')
+print(factorial(int(f))) 
         
-print(59.5/63)
+
+    
